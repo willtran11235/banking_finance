@@ -1,2 +1,2 @@
 # Banking
-ML Solution Architect for Bank
+ML Solution for Banking
